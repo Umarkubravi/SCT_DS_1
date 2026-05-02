@@ -1,4 +1,4 @@
-# Task 01 - Population Visualization
+# Population Visualization
 
 This project visualizes population data using:
 - Histogram (Log Scale)
